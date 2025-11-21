@@ -5,4 +5,9 @@ Debugging is the process of testing, finding, and reducing bugs (errors) in comp
 ** Using debugging tools to analyze code execution.
 ** Implementing fixes and verifying correctness.
 
-
+## Types of Errors in JavaScript
+1) Syntax Errors: 
+Issues with incorrect syntax, preventing execution.
+e.g
+console.log("Hello);
+// SyntaxError: missing closing quote
