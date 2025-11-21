@@ -1,1 +1,8 @@
+## Debugging in JavaScript
+Debugging is the process of testing, finding, and reducing bugs (errors) in computer programs. It involves:
+
+** Identifying errors (syntax, runtime, or logical errors).
+** Using debugging tools to analyze code execution.
+** Implementing fixes and verifying correctness.
+
 
