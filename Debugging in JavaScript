@@ -19,3 +19,12 @@ e.g.
 let a = undefined;
 console.log(a.length);
 // TypeError: Cannot read properties of undefined
+
+3) Logical Errors: 
+Code runs without errors but produces incorrect results.
+
+e.g
+function add(a, b) {
+    return a - b;
+}
+ // Logical error: should use + instead of -
