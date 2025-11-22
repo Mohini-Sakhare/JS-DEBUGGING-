@@ -28,3 +28,18 @@ function add(a, b) {
     return a - b;
 }
  // Logical error: should use + instead of -
+
+
+## JavaScript Debuggers
+1. Built-in Debugging Tools
+Modern browsers provide built-in JavaScript debuggers, accessible via Developer Tools. 
+Debuggers can be turned on and off, forcing errors to be reported. 
+They allow setting breakpoints and examining variables while code executes.
+
+** Steps to Activate Debugging:
+
+Chrome: Open "More tools" → "Developer tools" → Select "Console".
+Firefox: Open "Web Developer" → "Web Console".
+Edge: Open "Developer Tools" → Select "Console".
+Opera: Open "Developer" → "Developer tools" → "Console".
+Safari: Enable "Show Develop menu in menu bar" under Preferences, then select "Show Error Console".
