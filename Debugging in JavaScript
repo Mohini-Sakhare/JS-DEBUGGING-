@@ -43,3 +43,9 @@ Firefox: Open "Web Developer" → "Web Console".
 Edge: Open "Developer Tools" → Select "Console".
 Opera: Open "Developer" → "Developer tools" → "Console".
 Safari: Enable "Show Develop menu in menu bar" under Preferences, then select "Show Error Console".
+
+2. Using console.log()
+One of the simplest debugging techniques is logging messages to the console.
+
+let x = 10;
+console.log("Value of x:", x);
