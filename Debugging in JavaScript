@@ -68,3 +68,10 @@ function test() {
     console.log(n);
 }
 test();
+
+## Common Debugging Issues and Fixes
+1. Debugging Syntax Errors
+Syntax errors occur when code violates JavaScript's syntax rules. These errors are typically caught during compilation.
+
+Code editors and linters flag syntax errors.
+Fixing syntax mistakes ensures smooth execution.
