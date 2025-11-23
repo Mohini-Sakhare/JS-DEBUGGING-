@@ -75,3 +75,7 @@ Syntax errors occur when code violates JavaScript's syntax rules. These errors a
 
 Code editors and linters flag syntax errors.
 Fixing syntax mistakes ensures smooth execution.
+
+console.log("Hello);
+
+Fix: Add the missing closing quote.
