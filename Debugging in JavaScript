@@ -90,3 +90,15 @@ let x = 5;
 console.log("X value:", x);
 
 output:- X value: 5
+
+3. Debugging with Breakpoints in DevTools
+Breakpoints allow developers to pause code execution and inspect variable values.
+
+function add(a, b) {
+    return a + b;
+}
+let res = add(5, 10);
+console.log(res);
+
+output:
+15
