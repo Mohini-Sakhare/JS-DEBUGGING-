@@ -102,3 +102,7 @@ console.log(res);
 
 output:
 15
+
+* Breakpoints help developers pause and inspect variables during runtime.
+* They allow you to step through code line by line.
+* Useful for identifying logical errors in complex functions.
