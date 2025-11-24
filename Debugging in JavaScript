@@ -79,3 +79,9 @@ Fixing syntax mistakes ensures smooth execution.
 console.log("Hello);
 
 Fix: Add the missing closing quote.
+
+2. Using console.log() to Track Values
+Logging variable values helps debug unexpected outputs.
+
+Provides real-time feedback on variable states.
+Useful for debugging logical errors.
