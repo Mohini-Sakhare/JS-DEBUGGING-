@@ -85,3 +85,8 @@ Logging variable values helps debug unexpected outputs.
 
 Provides real-time feedback on variable states.
 Useful for debugging logical errors.
+
+let x = 5;
+console.log("X value:", x);
+
+output:- X value: 5
