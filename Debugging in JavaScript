@@ -113,3 +113,11 @@ Undefined variables usually indicate scope issues or missing arguments.
 Passing required arguments prevents undefined values.
 Ensures function behavior aligns with expectations.
 
+function greet(name) {
+    console.log("Hello, " + name);
+}
+greet(); // Undefined issue
+
+output: Hello undefined 
+
+Fix: Call greet("Mohini") to pass a valid argument.
