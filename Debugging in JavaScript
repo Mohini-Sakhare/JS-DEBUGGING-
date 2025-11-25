@@ -106,3 +106,10 @@ output:
 * Breakpoints help developers pause and inspect variables during runtime.
 * They allow you to step through code line by line.
 * Useful for identifying logical errors in complex functions.
+
+4. Identifying undefined Variables
+Undefined variables usually indicate scope issues or missing arguments.
+
+Passing required arguments prevents undefined values.
+Ensures function behavior aligns with expectations.
+
