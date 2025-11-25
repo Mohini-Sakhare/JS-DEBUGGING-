@@ -121,3 +121,8 @@ greet(); // Undefined issue
 output: Hello undefined 
 
 Fix: Call greet("Mohini") to pass a valid argument.
+
+
+5. Catching Errors with try...catch
+Handling runtime errors prevents crashes.
+Useful for handling JSON parsing errors.
