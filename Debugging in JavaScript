@@ -153,3 +153,14 @@ document.getElementById("btn").addEventListener("click", function() {
 });
 
 Fix: Ensure the element ID exists.
+
+8. Memory Leak Detection
+
+Memory leaks slow down applications.
+Use Chrome DevTools to detect leaks.
+Avoid excessive memory allocations.
+
+let a = [];
+setInterval(() => a.push("data"), 1000); // Potential memory leak
+
+Fix: Clear unused data regularly.
