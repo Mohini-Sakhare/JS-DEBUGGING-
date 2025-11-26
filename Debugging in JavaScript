@@ -147,3 +147,9 @@ Fix: Handle network errors gracefully
 7. Debugging Event Listeners
 Event listeners may not trigger as expected.
 Ensure correct event target selection.
+
+document.getElementById("btn").addEventListener("click", function() {
+    console.log("Button clicked");
+});
+
+Fix: Ensure the element ID exists.
