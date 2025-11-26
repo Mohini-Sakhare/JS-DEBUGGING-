@@ -134,3 +134,10 @@ try {
 }
 
 Fix: Ensure valid JSON input.
+
+6. Debugging Asynchronous Code with Promises
+Handling async operations can be tricky.
+.catch() handles rejected promises.
+
+fetch("invalid-url").catch(error => 
+console.error("Request failed", error));
