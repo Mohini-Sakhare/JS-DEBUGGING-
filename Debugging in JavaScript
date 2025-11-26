@@ -141,3 +141,9 @@ Handling async operations can be tricky.
 
 fetch("invalid-url").catch(error => 
 console.error("Request failed", error));
+
+Fix: Handle network errors gracefully
+
+7. Debugging Event Listeners
+Event listeners may not trigger as expected.
+Ensure correct event target selection.
